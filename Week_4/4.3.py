@@ -1,3 +1,10 @@
+"""
+Student Naam:   Wouter Dijkstra
+Student Nr. :   1700101
+Klas        :   ??
+Docent      :   frits.dannenberg@hu.nl
+"""
+
 # Maak de functie B(n,k) die (n!//(k!))//(n-k)! berekent.
 # Doe dit op basis van dynamic programming.
 # Wat is B(100,50) ?

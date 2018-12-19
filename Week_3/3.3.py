@@ -1,3 +1,10 @@
+"""
+Student Naam:   Wouter Dijkstra
+Student Nr. :   1700101
+Klas        :   ??
+Docent      :   frits.dannenberg@hu.nl
+"""
+
 class BSTNode:
     def __init__(self,element,left,right):
         self.element = element

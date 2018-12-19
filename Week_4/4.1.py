@@ -1,5 +1,11 @@
-import random
+"""
+Student Naam:   Wouter Dijkstra
+Student Nr. :   1700101
+Klas        :   ??
+Docent      :   frits.dannenberg@hu.nl
+"""
 
+import random
 
 class HashTable:
     def __init__(self):

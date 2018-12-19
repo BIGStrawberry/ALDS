@@ -1,3 +1,10 @@
+"""
+Student Naam:   Wouter Dijkstra
+Student Nr. :   1700101
+Klas        :   ??
+Docent      :   frits.dannenberg@hu.nl
+"""
+
 class ListNode:
     def __init__(self,data, next_node):
         self.data = data

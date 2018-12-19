@@ -1,3 +1,10 @@
+"""
+Student Naam:   Wouter Dijkstra
+Student Nr. :   1700101
+Klas        :   ??
+Docent      :   frits.dannenberg@hu.nl
+"""
+
 def check(a, i): # ga na of i aan a toegevoegd kan worden
     n = len(a)
     return not (i in a or
